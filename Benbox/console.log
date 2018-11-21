@@ -1,0 +1,88 @@
+Message: Uncaught TypeError: Cannot read property 'comNum' of null
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7938
+-----------------------
+Message: Uncaught TypeError: Cannot read property 'comNum' of null
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7938
+-----------------------
+Message: Uncaught TypeError: Cannot read property 'comNum' of null
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7938
+-----------------------
+Message: WebSocket connection to 'ws://127.0.0.1:7683/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7296
+-----------------------
+Message: [object Event]
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7313
+-----------------------
+Message: onError
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7330
+-----------------------
+Message: onClose
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7327
+-----------------------
+Message: Uncaught TypeError: Cannot read property 'comNum' of null
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7938
+-----------------------
+Message: WebSocket connection to 'ws://127.0.0.1:7683/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7296
+-----------------------
+Message: [object Event]
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7313
+-----------------------
+Message: onError
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7330
+-----------------------
+Message: onClose
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7327
+-----------------------
+Message: Uncaught TypeError: Cannot read property 'comNum' of null
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7938
+-----------------------
+Message: WebSocket connection to 'ws://127.0.0.1:7683/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7296
+-----------------------
+Message: [object Event]
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7313
+-----------------------
+Message: onError
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7330
+-----------------------
+Message: onClose
+Source: file:///D:/Program%20Files/Benbox/3.7.99/bin/
+Line: 7327
+-----------------------
+Message: Uncaught TypeError: Cannot read property 'comNum' of null
+Source: file:///G:/ssk_Brain_power_N/image-text/Benbox/3.7.99/bin/
+Line: 7938
+-----------------------
+Message: WebSocket connection to 'ws://127.0.0.1:7683/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+Source: file:///G:/ssk_Brain_power_N/image-text/Benbox/3.7.99/bin/
+Line: 7296
+-----------------------
+Message: [object Event]
+Source: file:///G:/ssk_Brain_power_N/image-text/Benbox/3.7.99/bin/
+Line: 7313
+-----------------------
+Message: onError
+Source: file:///G:/ssk_Brain_power_N/image-text/Benbox/3.7.99/bin/
+Line: 7330
+-----------------------
+Message: onClose
+Source: file:///G:/ssk_Brain_power_N/image-text/Benbox/3.7.99/bin/
+Line: 7327
+-----------------------
