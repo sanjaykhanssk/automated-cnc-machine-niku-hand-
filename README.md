@@ -10,4 +10,7 @@ This program is to automate the CNC machine which uses the Benbox to convert the
 5.speech_recognition<br>
 
 
->just make the CNC machine and implement this thats it.
+>just make the CNC machine and implement this thats it.<br>
+
+>python3 main.py
+
