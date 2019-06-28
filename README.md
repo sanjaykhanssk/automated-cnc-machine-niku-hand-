@@ -9,6 +9,7 @@ This program is to automate the CNC machine which uses the Benbox to convert the
 4.BeautifulSoup<br>
 5.speech_recognition<br>
 
+### Not completed  , means CNC Machine is not ready
 
 >just make the CNC machine and implement this thats it.<br>
 
